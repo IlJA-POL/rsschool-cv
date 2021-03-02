@@ -1,1 +1,1 @@
-# https://github.com/IlJA-POL/rsschool-cv/cv
+## https://IlJA-POL.github.io/rsschool-cv/cv
