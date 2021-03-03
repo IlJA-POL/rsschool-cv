@@ -36,9 +36,10 @@ specialty management, enterprise management. <br>
      
 
 
- <br>
 
-7. Work experience<br>
+
+7. Work experience <br>
+
      - Company "LUKOIL" - 2013-2019 - Gas station operator <br>
      - Company "Klontin"- 2010-2011 - Sales manager <br>
      - Company  "Tracy BelKM" - 2009 -2010 -Sales manager
@@ -56,8 +57,6 @@ specialty management, enterprise management. <br>
 
  <br><br>
 
+9. Interests & extra information <br>
 
-9. Interests & extra information
- <br>
-   
-   Sports, table tennis, travel  
+     * Sports, table tennis, travel  
