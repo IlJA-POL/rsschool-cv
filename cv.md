@@ -1,62 +1,35 @@
-# ***Summary for Rolling Scopes School***
+# **_Summary for Rolling Scopes School_**
 
 1. First Name, Last Name
+    - **Ilya Poluschankou** 
 
-     - **Ilya Poluschankou** <br>
-  
-2. Contacts
+1. Contacts
+    - Belarus - Vitebsk
+    - +375(29) 714-47-57
+    - https://vk.com/iljusa1984
+    - E-mail sarmantp@mail.ru
 
-     * Belarus - Vitebsk
-     * +375(29) 714-47-57
-     * <https://vk.com/iljusa1984>
-     * E-mail sarmantp@mail.ru
-     <br><br>
+1. Summary
+    - Communication skills, responsibility,decency. The desire to learn and develop in this field of activity.
+    
+1. Skills
 
-3. Summary <br>
+1. Code examples
 
-     Communication skills, responsibility,decency. The desire to learn and develop in this field of activity. 
+1.  Education
+    - International Institute of Labor and Social Relations, Vitebsk sity 2002-2007, specialty management, enterprise management.
+    - Computer literacy (Microsoft Office, Outlook Express, 1C: Enterprise)
+    - Driving License (Category B,C)
 
-     <br><br>
+1.  Work experience 
+    - Company "LUKOIL" - 2013-2019 - Gas station operator
+    - Company "Klontin"- 2010-2011 - Sales manager
+    - Company "Tracy BelKM" - 2009 -2010 -Sales manager
 
-4. Skills
+1. English level
+   - Russian-Native
+   - English-A1-Primary
+   - German-A2-Elementary
 
-     <br><br>
-
-5. Code examples
-
-   
-     <br><br>
-
-6. Education <br>
-
-     - "International Institute of Labor and Social Relations" Vitebsk sity 2002-2007,
-specialty management, enterprise management. <br>
-     - Computer literacy (Microsoft Office, Outlook Express, 1C: Enterprise) <br>
-     - Driving License (Category B,C)
-     
-
-
-
-
-7. Work experience <br>
-
-     * Company "LUKOIL" - 2013-2019 - Gas station operator <br>
-     * Company "Klontin"- 2010-2011 - Sales manager <br>
-     * Company  "Tracy BelKM" - 2009 -2010 -Sales manager
-
- <br><br>
-     
-8. English level
-
-   * Russian-Native
-
-   * English-A1-Primary
-
-   * German-A2-Elementary
-   
-
- <br><br>
-
-9. Interests & extra information <br>
-
-     * Sports, table tennis, travel  
+1. Interests & extra information 
+   - Sports, table tennis, travel
