@@ -6,10 +6,10 @@
   
 2. Contacts
 
-     - Belarus - Vitebsk
-     - +375(29) 714-47-57
-     - <https://vk.com/iljusa1984>
-     - E-mail sarmantp@mail.ru
+     * Belarus - Vitebsk
+     * +375(29) 714-47-57
+     * <https://vk.com/iljusa1984>
+     * E-mail sarmantp@mail.ru
      <br><br>
 
 3. Summary <br>
@@ -40,9 +40,9 @@ specialty management, enterprise management. <br>
 
 7. Work experience <br>
 
-     - Company "LUKOIL" - 2013-2019 - Gas station operator <br>
-     - Company "Klontin"- 2010-2011 - Sales manager <br>
-     - Company  "Tracy BelKM" - 2009 -2010 -Sales manager
+     * Company "LUKOIL" - 2013-2019 - Gas station operator <br>
+     * Company "Klontin"- 2010-2011 - Sales manager <br>
+     * Company  "Tracy BelKM" - 2009 -2010 -Sales manager
 
  <br><br>
      
