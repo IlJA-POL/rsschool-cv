@@ -1,0 +1,13 @@
+* {
+  font-size: 30px;
+}
+body {
+  background: url("./fon3.jpg");
+  background-size: 100%;
+}
+p {
+  font-size: 40px;
+}
+.img {
+  width: 150px;
+}
